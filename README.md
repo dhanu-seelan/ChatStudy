@@ -120,10 +120,10 @@ while 1:
     print(' Client : ', incoming_message) 
     print()
 
-    ````
-    ##output
+````
+##output
     
-  <img width="686" height="482" alt="WhatsApp Image 2026-05-15 at 9 34 25 AM (1)" src="https://github.com/user-attachments/assets/0eca6757-b5de-4dc4-92c8-58433eebb03a" />
+<img width="686" height="482" alt="WhatsApp Image 2026-05-15 at 9 34 25 AM (1)" src="https://github.com/user-attachments/assets/0eca6757-b5de-4dc4-92c8-58433eebb03a" />
 
 <img width="471" height="393" alt="WhatsApp Image 2026-05-15 at 9 34 25 AM" src="https://github.com/user-attachments/assets/32ad093f-6a95-45a5-a8d9-3f733cabd929" />
 
